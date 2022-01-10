@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo #
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![ilkrepogorsel](https://i.ibb.co/WFFVD5W/ilkrepo-ss.png)
 
@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) eğitimi kapsamında açtığ�
 
 ## Installation ##
 
-Öncelikle projeyi clonelayın. *(Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. *(Buraya sizin reponuzdan aldığınız link gelecek)*
 
 >git clone <https://github.com/mervegencalioglu/kodluyoruzilkrepo.git>
 
@@ -16,14 +16,16 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) eğitimi kapsamında açtığ�
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-## Contributing ##
-
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Linux için:
 
 ```
 cd kodluyoruzilkrepo
 code
 ```
+
+## Contributing ##
+
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License ##
 
