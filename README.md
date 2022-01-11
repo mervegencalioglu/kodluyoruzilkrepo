@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 
 ## Installation ##
 
-Öncelikle projeyi clonelayın. *(Buraya sizin reponuzdan aldığınız link gelecek)*
+Öncelikle projeyi clonelayın.
 
 >git clone <https://github.com/mervegencalioglu/kodluyoruzilkrepo.git>
 
